@@ -97,6 +97,7 @@
     }
 
     .main-article > img {
+        padding-top: 2em;
         height: 250px;
         margin: 0%;
     }

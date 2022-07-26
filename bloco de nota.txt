@@ -1,5 +1,0 @@
-font-family: 'Times New Roman', Times, Georgia, serif;
-background-color: #272727;
-background-image: linear-gradient(to top, #ff0000, #272727);
-
-
